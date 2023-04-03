@@ -1,7 +1,6 @@
 # Carga de paquetes --------
 
 library(tidyverse)
-library(extrafont)
 library(readxl)
 library(janitor)
 library(waffle)
@@ -47,8 +46,9 @@ df <- df %>%
   filter(year %in% c(1950, 1980, 2021)) %>% 
   select(-entity,-code)
 
-var_names <- c('ano','65 y más','25 a 64','15 a 24','5 a 14','5 o menos')
+var_names <- c('ano','65 y más','25 a 64','15 a 24','5 a 14','4 o menos')
 colnames(df) <- var_names
+df <- df %>% select(1,6,5,4,3,2)
 
 df <- df %>% 
   pivot_longer(!ano, names_to = 'edad', values_to = 'pob')
@@ -58,10 +58,8 @@ df <- df %>%
   mutate(porc = round(pob/sum(pob)*100,0),
          porc = ifelse(ano==2021 & edad=='5 a 14', 12, porc)) #se aproxima hacia abajo para no dar suma sobre 100
 
-orden <- c('5 o menos','5 a 14','15 a 24','25 a 64','65 y más')
-
 gg <- df %>% 
-  ggplot(aes(fill = rev(factor(edad,orden)), values = porc)) +
+  ggplot(aes(fill = factor(edad,orden), values = porc)) +
   geom_waffle(n_rows = 5, color = "#FCF3CF", size=1.125) +
   facet_wrap(~ano, ncol=1) +
   scale_fill_npg() +
