@@ -30,6 +30,15 @@ Este tipo de gráficos permiten mostrar mediante un pictograma la distribución 
 
 ![Día 2](output/day2_waffle_1.png)
 
+### Día 3: Fauna/flora
+
+En este gráfico se utilizaron datos del Sistema de Información Digital para el Control de Operaciones de CONAF, con el fin de observar las hectáreas afectadas por incendios forestales en Chile.
+
+- Datos para la elaboración del gráfico disponibles [aquí](/input/incendios_forestales_2023.csv)
+- Código disponible [aquí](/R/03-flora_fauna.R)
+
+![Día 3](output/day3_flora_fauna.png)
+
 ### Día 4: Historical 
 
 Este tipo de gráficos permiten mostrar datos de secuencias históricas. Seguimos en la demografía mostrando datos respecto a la caída de matrimonios en Chile en comparación con otros países a lo largo del tiempo.
