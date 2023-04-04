@@ -20,3 +20,21 @@ Este tipo de gráficos que se engloban en los "part-to-whole" permiten mostrar p
 - Código disponible [aquí](/R/01-part-to-whole.R)
 
 ![Día 1](output/day1_part_to_whole_1.png)
+
+### Día 2: waffle 
+
+Este tipo de gráficos permiten mostrar mediante un pictograma la distribución de ciertos datos. Aquí quisimos mostrar información respecto del envejecimiento poblacional en Chile.
+
+- Datos para la elaboración del gráfico disponibles [aquí](https://ourworldindata.org/age-structure)
+- Código disponible [aquí](/R/02-waffle.R)
+
+![Día 2](output/day2_waffle_1.png)
+
+### Día 4: Historical 
+
+Este tipo de gráficos permiten mostrar datos de secuencias históricas. Seguimos en la demografía mostrando datos respecto a la caída de matrimonios en Chile en comparación con otros países a lo largo del tiempo.
+
+- Datos para la elaboración del gráfico disponibles [aquí](https://ourworldindata.org/marriages-and-divorces)
+- Código disponible [aquí](/R/04-historical.R)
+
+![Día 4](output/day4_historical_1.png)
