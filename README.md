@@ -47,3 +47,16 @@ Este tipo de gráficos permiten mostrar datos de secuencias históricas. Seguimo
 - Código disponible [aquí](/R/04-historical.R)
 
 ![Día 4](output/day4_historical_1.png)
+
+
+### Día 5: Slopes 
+
+Este tipo de gráficos permiten mostrar variaciones a través de los años. El día de hoy nos centramos en el cambio que ha tenido la percepción del aborto en Chile en los últimos ocho años.
+
+- Datos para la elaboración del gráfico disponibles [aquí](/input/Datos_aborto_bicentenario.xlsx)
+- Código disponible [aquí](/R/05-slopes.R)
+
+![Día 5](output/day5_slopes_1.png)
+
+
+
