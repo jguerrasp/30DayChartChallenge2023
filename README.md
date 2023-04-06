@@ -59,4 +59,11 @@ Este tipo de gráficos permiten mostrar variaciones a través de los años. El d
 ![Día 5](output/day5_slopes_1.png)
 
 
+### Día 6: Data day OWID 
 
+Este día era el último de la serie de "distributions", y correspondía a un gráfico con datos de Our World in Data [OWID](https://ourworldindata.org/)  
+
+- Datos para la elaboración del gráfico disponibles [aquí](https://ourworldindata.org/migration)
+- Código disponible [aquí](/R/06-data-day-OWID.R)
+
+![Día 5](output/day_6_data_day_OWID_1.png)
