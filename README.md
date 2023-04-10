@@ -21,6 +21,8 @@ Este tipo de gráficos que se engloban en los "part-to-whole" permiten mostrar p
 
 ![Día 1](output/day1_part_to_whole_1.png)
 
+Autoría Cristina Marchant.
+
 ### Día 2: waffle 
 
 Este tipo de gráficos permiten mostrar mediante un pictograma la distribución de ciertos datos. Aquí quisimos mostrar información respecto del envejecimiento poblacional en Chile.
@@ -29,6 +31,8 @@ Este tipo de gráficos permiten mostrar mediante un pictograma la distribución 
 - Código disponible [aquí](/R/02-waffle.R)
 
 ![Día 2](output/day2_waffle_1.png)
+
+Autoría Cristina Marchant.
 
 ### Día 3: Fauna/flora
 
@@ -39,6 +43,8 @@ En este gráfico se utilizaron datos del Sistema de Información Digital para el
 
 ![Día 3](output/day3_flora_fauna.png)
 
+Autoría Josefa Guerra.
+
 ### Día 4: Historical 
 
 Este tipo de gráficos permiten mostrar datos de secuencias históricas. Seguimos en la demografía mostrando datos respecto a la caída de matrimonios en Chile en comparación con otros países a lo largo del tiempo.
@@ -48,6 +54,7 @@ Este tipo de gráficos permiten mostrar datos de secuencias históricas. Seguimo
 
 ![Día 4](output/day4_historical_1.png)
 
+Autoría Cristina Marchant.
 
 ### Día 5: Slopes 
 
@@ -58,6 +65,7 @@ Este tipo de gráficos permiten mostrar variaciones a través de los años. El d
 
 ![Día 5](output/day5_slopes_1.png)
 
+Autoría Jonatan Salazar.
 
 ### Día 6: Data day OWID 
 
@@ -68,6 +76,8 @@ Este día era el último de la serie de "distributions", y correspondía a un gr
 
 ![Día 5](output/day_6_data_day_OWID_1.png)
 
+Autoría Vicky Rojas.
+
 ### Día 7: Hazards 
 
 Hoy empezaban los gráficos de distribuciones, sin embargo, nos quedamos atrás. Pero tomamos en consideración la idea de "riesgos", para graficar los casos policiales entre 2021 y 2022. 
@@ -76,6 +86,8 @@ Hoy empezaban los gráficos de distribuciones, sin embargo, nos quedamos atrás.
 - Código disponible [aquí](/R/07-hazards.R)
 
 ![Día 7](output/day_7_hazards_1.png)
+
+Autoría Vicky Rojas.
 
 ### Día 8: Humans
 
@@ -86,6 +98,8 @@ Hoy continuamos con el tema "humanos" y el tipo de gráfico de distribuciones.
 
 ![Día 8](output/day8_humans_1.png)
 
+Autoría Cristina Marchant.
+
 ### Día 9: Híbrido
 
 Este gráfico utiliza la librería `tuber` que nos permite descargar la información de canales y playlist de YouTube. Con esta información, construímos un gráfico que muestra el número de visitas/reproducciones que hay en el canal de NewJeans y los videos de **NewJeans** en el canal de HYBE LABELS. Dejando aquellos videos con más de 10M de reproducciones, es posible observar los videos más visitados de este nuevo grupo de kpop. El concepto híbrido se pensó en la combinación de `ggplot2` e imágenes en png.
@@ -93,5 +107,4 @@ Este gráfico utiliza la librería `tuber` que nos permite descargar la informac
 - Código disponible [aquí](/R/10-híbrido.R)
 
 ![Día 10](output/day10_hibrido.png)
-
 
