@@ -19,9 +19,9 @@ Este tipo de gráficos que se engloban en los "part-to-whole" permiten mostrar p
 - Datos para la elaboración del gráfico disponibles [aquí](https://ourworldindata.org/happiness-and-life-satisfaction)
 - Código disponible [aquí](/R/01-part-to-whole.R)
 
-![Día 1](output/day1_part_to_whole_1.png)
-
 Autoría Cristina Marchant.
+
+![Día 1](output/day1_part_to_whole_1.png)
 
 ### Día 2: waffle 
 
@@ -30,9 +30,9 @@ Este tipo de gráficos permiten mostrar mediante un pictograma la distribución 
 - Datos para la elaboración del gráfico disponibles [aquí](https://ourworldindata.org/age-structure)
 - Código disponible [aquí](/R/02-waffle.R)
 
-![Día 2](output/day2_waffle_1.png)
-
 Autoría Cristina Marchant.
+
+![Día 2](output/day2_waffle_1.png)
 
 ### Día 3: Fauna/flora
 
@@ -41,9 +41,9 @@ En este gráfico se utilizaron datos del Sistema de Información Digital para el
 - Datos para la elaboración del gráfico disponibles [aquí](/input/incendios_forestales_2023.csv)
 - Código disponible [aquí](/R/03-flora_fauna.R)
 
-![Día 3](output/day3_flora_fauna.png)
-
 Autoría Josefa Guerra.
+
+![Día 3](output/day3_flora_fauna.png)
 
 ### Día 4: Historical 
 
@@ -52,9 +52,9 @@ Este tipo de gráficos permiten mostrar datos de secuencias históricas. Seguimo
 - Datos para la elaboración del gráfico disponibles [aquí](https://ourworldindata.org/marriages-and-divorces)
 - Código disponible [aquí](/R/04-historical.R)
 
-![Día 4](output/day4_historical_1.png)
-
 Autoría Cristina Marchant.
+
+![Día 4](output/day4_historical_1.png)
 
 ### Día 5: Slopes 
 
@@ -63,9 +63,9 @@ Este tipo de gráficos permiten mostrar variaciones a través de los años. El d
 - Datos para la elaboración del gráfico disponibles [aquí](/input/Datos_aborto_bicentenario.xlsx)
 - Código disponible [aquí](/R/05-slopes.R)
 
-![Día 5](output/day5_slopes_1.png)
-
 Autoría Jonatan Salazar.
+
+![Día 5](output/day5_slopes_1.png)
 
 ### Día 6: Data day OWID 
 
@@ -74,9 +74,9 @@ Este día era el último de la serie de "distributions", y correspondía a un gr
 - Datos para la elaboración del gráfico disponibles [aquí](https://ourworldindata.org/migration)
 - Código disponible [aquí](/R/06-data-day-OWID.R)
 
-![Día 5](output/day_6_data_day_OWID_1.png)
-
 Autoría Vicky Rojas.
+
+![Día 5](output/day_6_data_day_OWID_1.png)
 
 ### Día 7: Hazards 
 
@@ -85,9 +85,9 @@ Hoy empezaban los gráficos de distribuciones, sin embargo, nos quedamos atrás.
 - Datos para la elaboración del gráfico disponibles [aquí](http://cead.spd.gov.cl/wp-content/uploads/file-manager/Presentaci%C3%B3n-Estad%C3%ADsticas-anual-2022.pdf)
 - Código disponible [aquí](/R/07-hazards.R)
 
-![Día 7](output/day_7_hazards_1.png)
-
 Autoría Vicky Rojas.
+
+![Día 7](output/day_7_hazards_1.png)
 
 ### Día 8: Humans
 
@@ -96,9 +96,10 @@ Hoy continuamos con el tema "humanos" y el tipo de gráfico de distribuciones.
 - Datos para la elaboración del gráfico disponibles [aquí](https://ourworldindata.org/future-population-growth)
 - Código disponible [aquí](/R/08-humans.R)
 
+Autoría Cristina Marchant.
+
 ![Día 8](output/day8_humans_1.png)
 
-Autoría Cristina Marchant.
 
 ### Día 9: Híbrido
 
@@ -106,5 +107,8 @@ Este gráfico utiliza la librería `tuber` que nos permite descargar la informac
 
 - Código disponible [aquí](/R/10-híbrido.R)
 
+Autoría Soledad Araya.
+
 ![Día 10](output/day10_hibrido.png)
+
 
