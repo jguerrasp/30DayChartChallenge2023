@@ -67,3 +67,21 @@ Este día era el último de la serie de "distributions", y correspondía a un gr
 - Código disponible [aquí](/R/06-data-day-OWID.R)
 
 ![Día 5](output/day_6_data_day_OWID_1.png)
+
+### Día 7: Hazards 
+
+Hoy empezaban los gráficos de distribuciones, sin embargo, nos quedamos atrás. Pero tomamos en consideración la idea de "riesgos", para graficar los casos policiales entre 2021 y 2022. 
+
+- Datos para la elaboración del gráfico disponibles [aquí](http://cead.spd.gov.cl/wp-content/uploads/file-manager/Presentaci%C3%B3n-Estad%C3%ADsticas-anual-2022.pdf)
+- Código disponible [aquí](/R/07-hazards.R)
+
+![Día 7](output/day_7_hazards_1.png)
+
+### Día 8: Humans
+
+Hoy continuamos con el tema "humanos" y el tipo de gráfico de distribuciones.  
+
+- Datos para la elaboración del gráfico disponibles [aquí](https://ourworldindata.org/future-population-growth)
+- Código disponible [aquí](/R/08-humans.R)
+
+![Día 8](output/day8_humans_1.png)
