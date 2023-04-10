@@ -99,3 +99,12 @@ Hoy continuamos con el tema "humanos" y el tipo de gráfico de distribuciones.
 ![Día 8](output/day8_humans_1.png)
 
 Autoría Cristina Marchant.
+
+### Día 9: Híbrido
+
+Este gráfico utiliza la librería `tuber` que nos permite descargar la información de canales y playlist de YouTube. Con esta información, construímos un gráfico que muestra el número de visitas/reproducciones que hay en el canal de NewJeans y los videos de **NewJeans** en el canal de HYBE LABELS. Dejando aquellos videos con más de 10M de reproducciones, es posible observar los videos más visitados de este nuevo grupo de kpop. El concepto híbrido se pensó en la combinación de `ggplot2` e imágenes en png.
+
+- Código disponible [aquí](/R/10-híbrido.R)
+
+![Día 10](output/day10_hibrido.png)
+
