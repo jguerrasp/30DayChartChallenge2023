@@ -111,7 +111,7 @@ Autoría Soledad Araya.
 
 ![Día 10](output/day10_hibrido.png)
 
-### Día 12: Híbrido
+### Día 12: Theme day: BBC News
 
 Para este día se trabajó con datos obtenidos a partir del trabajo con el paquete spotifyr. Acá pueden encontrar un tutorial: https://www.rcharlie.com/spotifyr/
 
