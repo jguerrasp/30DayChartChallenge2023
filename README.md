@@ -117,6 +117,6 @@ Para este día se trabajó con datos obtenidos a partir del trabajo con el paque
 
 - Código disponible [aquí](/R/12-bbc_news.R)
 
-Autoría Soledad Araya.
+Autoría Cristina Marchant.
 
 ![Día 12](output/day11_bbcnews_1.png)
