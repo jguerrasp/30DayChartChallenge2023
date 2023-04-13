@@ -120,3 +120,17 @@ Para este día se trabajó con datos obtenidos a partir del trabajo con el paque
 Autoría Cristina Marchant.
 
 ![Día 12](output/day11_bbcnews_1.png)
+
+### Día 13: Cultura pop
+
+Los servicios de streaming ya se volvieron parte de nuestra vida, por lo que nunca está de más ver qué es lo que nos están ofreciendo. Con datos extraídos desde IMDB de las series de Netflix, Primevideo, HBO Max y Apple TV, este gráfico muestra las series mejor evaluadas por año de cada servicio de streaming desde el 2000, y su relación con las audiencias: en el eje y tenemos el número de evaluaciones que recibió cada uno de estas series. Breaking Bad y Game of Thrones aparecen como las grandes ganadoras de las audiencias.
+
+- Código disponible [aquí](/R/13-pop_cultureo.R)
+
+Autoría Soledad Araya.
+
+![Día 13 - Mejores audiencias](output/day13_pop_culture2.png)
+
+Si quieres ver cuál es la serie mejor evaluada por año, lo puedes ver en el siguiente gráfico:
+
+![Día 13 - Series por año](output/day13_pop_culture1.png)
