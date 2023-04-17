@@ -121,6 +121,7 @@ Autoría Cristina Marchant.
 
 ![Día 12](output/day11_bbcnews_1.png)
 
+
 ### Día 13: Cultura pop
 
 Los servicios de streaming ya se volvieron parte de nuestra vida, por lo que nunca está de más ver qué es lo que nos están ofreciendo. Con datos extraídos desde IMDB de las series de Netflix, Primevideo, HBO Max y Apple TV, este gráfico muestra las series mejor evaluadas por año de cada servicio de streaming desde el 2000, y su relación con las audiencias: en el eje y tenemos el número de evaluaciones que recibió cada uno de estas series. Breaking Bad y Game of Thrones aparecen como las grandes ganadoras de las audiencias.
@@ -134,3 +135,14 @@ Autoría Soledad Araya.
 Si quieres ver cuál es la serie mejor evaluada por año, lo puedes ver en el siguiente gráfico:
 
 ![Día 13 - Series por año](output/day13_pop_culture1.png)
+
+
+### Día 17: Networks
+
+El análisis de redes nos permite, a grandes rasgos, identificar las relaciones sociales entre individuos. Para el día de hoy nos centramos en John Coltrane, un destacado músico de jazz. El gráfico refleja los cuarenta músicos con quienes más colaboró a lo largo de su carrera musical (además de las relaciones entre los mismos). Destaca su colaboración con Miles Davis, Thelonious Monk y sus iniciones musicales con Dizzy Gillespie.
+
+- Código disponible [aquí](/R/17-networks.R)
+
+Autoría Jonatan Salazar.
+
+![Día 17](output/day17_networks.png)
